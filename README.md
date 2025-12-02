@@ -6,7 +6,7 @@ This repo contains my rough implementation of Fault Analysis Based Logic Encrypt
 
 This was created and run on a Windows host with WSL enabled. Your Windows host should have `python3` installed and in your path and your WSL distro should be a debian fork with `iverilog` installed through apt.
 
-To run the program, on the Windows host, run `python3 fault.py`. This will use the HOPE binaries to insert the amount of key gates you specify. Then, on the WSL console, navigate to the directory (in /mnt/c/), cd into TEST, and run ./run_tb.sh
+To run the program, on the Windows host, run `python3 fault.py`. This will use the HOPE binaries to insert the amount of key gates you specify. Then, on the WSL console, navigate to the directory (through `/mnt/c/`), cd into `TEST`, and run `./run_tb.sh`
 
 # Future TO-DOs
 Future TO-DOs include
