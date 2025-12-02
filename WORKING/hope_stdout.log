@@ -1,0 +1,36 @@
+	*******************************************************
+	*                                                     *
+	*            Welcome to HOPE (version 2.0)            *
+	*                                                     *
+	*               Dong S. Ha (ha@vt.edu)                *
+	*            Web: http://www.ee.vt.edu/ha             *
+	*  Virginia Polytechnic Institute & State University  *
+	*                                                     *
+	*******************************************************
+
+******   SUMMARY OF SIMULATION RESULTS   ******
+1. Circuit structure
+   Name of circuit                           : Benchmark_"Circuit432"_written_by_ABC_on_Tue_Nov_25_17:35:40_2025
+   Number of primary inputs                  : 38
+   Number of primary outputs                 : 7
+   Number of flip-flops                      : 0
+   Number of gates                           : 284
+   Level of the circuit                      : 44
+
+2. Simulator input parameters
+   Simulation mode                           : random
+   Initial random number generator seed      : 9999
+
+3. Simulation results
+   Number of test patterns applied           : 10000
+   Fault coverage                            : 99.184 %
+   Number of collapsed faults                : 490
+   Number of detected faults                 : 486
+   Number of undetected faults               : 4
+
+4. Memory used                               : 16498 Kbytes
+
+5. CPU time
+   Initialization                            : 654427.083 secs
+   Fault simulation                          : 1.033 secs
+   Total                                     : 654428.117 secs
